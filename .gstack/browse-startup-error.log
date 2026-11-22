@@ -19,3 +19,5 @@ launch: Executable doesn't exist at /Users/chenhao/Library/Caches/ms-playwright/
     at launch (/Users/chenhao/.claude/skills/gstack/browse/src/browser-manager.ts:220:35)
     at async start (/Users/chenhao/.claude/skills/gstack/browse/src/server.ts:1175:28)
     at processTicksAndRejections (native:7:39)
+info . async mether id log - npx error 
+playright - higgs - syntax error - npm
